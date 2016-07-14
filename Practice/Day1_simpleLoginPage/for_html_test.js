@@ -1,6 +1,3 @@
-/**
- * Created by nonesome on 16/5/28.
- */
 ;(function(){
     var h2 = document.getElementsByTagName("h2")[0];
     //h2.addEventListener("mouseover", function(){
